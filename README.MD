@@ -4,8 +4,8 @@ This program is designed to read and display optical spectrum data from a USB400
 
   - Single scan, or continuous scan (1 Hz, 5 Hz, and 10 Hz)
   - Uses USB400's internally stored calibration coefficients to comupte pixel to nanometer mapping
+  - Uses calibration coefficients to compute and display x axis legend
   - Mouse cursor moves a x-axis cursor that displays pixel level readings
-  - Uses calibration coefficients to comupte and display x axix legend
   - Save scan as CSV file (pixel number and reading)
   - Get Info pane displays information about the USB400, including calibration coefficients
   - X Axis can be scaled for 1:1 (all pixcels) or 1:2 (1/2 scale) display
