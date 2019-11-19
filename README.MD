@@ -1,6 +1,15 @@
 <p align="center"><img src="https://github.com/wholder/USB4000/blob/master/images/USB4000%20Screenshot.png" width="90%" height="90%"></p>
 
-This program is designed to read and display optical spectrum data from a USB4000 Spectrometer made by Ocean Optics, Inc.  This program is still in develpment, so only a few, basic features are supported.
+This program is designed to read and display optical spectrum data from a USB4000 Spectrometer made by Ocean Optics, Inc.  This program is still in develpment, so only a few, basic features are currently supported:
+
+  - Single scan, or continuous scan (1 Hz, 5 Hz, and 10 Hz)
+  - Uses USB400's internally stored calibration coefficients to comupte pixel to nanometer mapping
+  - Mouse cursor moves a x-axis cursor that displays pixel level readings
+  - Uses calibration coefficients to comupte and display x axix legend
+  - Save scan as CSV file (pixel number and reading)
+  - Get Info pane displays information about the USB400, including calibration coefficients
+  - X Axis can be scaled for 1:1 (all pixcels) or 1:2 (1/2 scale) display
+  - Y Axis can be scaled for 1:1 - 1:64 scales
 
 ### **Requirements**
 A [Java JDK or JVM](https://www.java.com/en/) or [OpenJDK](http://openjdk.java.net) version 8, or later must be installed in order to run the code.  There is also a [**Runnable JAR file**](https://github.com/wholder/RglComm/blob/master/out/artifacts/RglComm_jar) included in the checked in code that you can download and run without having to compile the source code.
