@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/wholder/USB4000/blob/master/images/USB4000%20Screenshot.png" width="50%" height="50%"></p>
+<p align="center"><img src="https://github.com/wholder/USB4000/blob/master/images/USB4000%20Screenshot.png" width="70%" height="70%"></p>
 
 This program is designed to read and display optical spectrum data from a USB4000 Spectrometer made by Ocean Optics, Inc.  This program is still in develpment, so only a few, basic features are supported.
 
