@@ -12,7 +12,7 @@ This program is designed to read and display optical spectrum data from a USB400
   - Y Axis can be scaled for 1:1 - 1:64 scales
 
 ### **Requirements**
-A [Java JDK or JVM](https://www.java.com/en/) or [OpenJDK](http://openjdk.java.net) version 8, or later must be installed in order to run the code.  There is also a [**Runnable JAR file**](https://github.com/wholder/RglComm/blob/master/out/artifacts/RglComm_jar) included in the checked in code that you can download and run without having to compile the source code.
+A [Java JDK or JVM](https://www.java.com/en/) or [OpenJDK](http://openjdk.java.net) version 8, or later must be installed in order to run the code.  There is also a [**Runnable JAR file**](https://github.com/wholder/USB4000/blob/master/out/artifacts/USB4000_jar) included in the checked in code that you can download and run without having to compile the source code.
 
 ## Credits
 USB4000 uses the following Java code to perform some of its functions, or build this project:
