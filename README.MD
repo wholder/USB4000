@@ -8,7 +8,7 @@ This program is designed to read and display optical spectrum data from a USB400
   - Mouse cursor moves a x-axis cursor that displays pixel level readings
   - Save scan as CSV file (pixel number and reading)
   - Get Info pane displays information about the USB400, including calibration coefficients
-  - X Axis can be scaled for 1:1 (all pixcels) or 1:2 (1/2 scale) display
+  - X Axis can be scaled for 1:1 (scrollable display of all pixels) or 1:2 (1/2 scale, nonscrolling display)
   - Y Axis can be scaled for 1:1 - 1:64 scales
 
 ### **Requirements**
